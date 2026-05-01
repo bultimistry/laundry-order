@@ -24,7 +24,7 @@ Other:
 
 ### 1️⃣ Clone the repo
 
-git clone https://github.com/your-username/laundry-system.git  
+git clone https://github.com/bultimistry/laundry-order
 cd laundry-system
 
 ---
