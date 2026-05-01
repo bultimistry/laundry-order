@@ -135,6 +135,18 @@ PUT /orders/:id/status
 GET /orders/dashboard/summary  
 
 ---
+## 📸 Screenshots
+
+### 🧾 Create Order
+![Create Order](./screenshots/create-order.png)
+
+### 📋 Orders List
+![Orders](./screenshots/orders.png)
+
+### 📊 Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+---
 
 ## 🎥 Demo
 
